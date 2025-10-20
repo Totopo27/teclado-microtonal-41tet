@@ -36,7 +36,7 @@ const keyConfigurations = [
   { id: '18m', name: 'fa+', value: 151, top: 816, left: 128, color: 'blue', text: '18' },
   { id: '19m', name: 'fa#-', value: 152, top: 726, left: 128, color: 'blue', text: '19' },
   { id: '20m', name: 'fa#', value: 153, top: 771, left: 205, color: 'dark-gray', text: '20' },
-  { id: '21m', name: 'solb', value: 154, top: 689, left: 214, color: 'dark-gray', text: '21' },
+  { id: '21m', name: 'solb', value: 154, top: 681, left: 205, color: 'dark-gray', text: '21' },
   { id: '22m', name: 'solb+', value: 155, top: 735, left: 291, color: 'blue', text: '22' },
   { id: '23m', name: 'sol-', value: 156, top: 645, left: 291, color: 'blue', text: '23' },
   { id: '24m', name: 'sol', value: 157, top: 690, left: 369, color: 'white', text: '24' },
