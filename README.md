@@ -35,13 +35,13 @@ Simplemente abre `index.html` en tu navegador web.
 ## Escalas incluidas
 
 ### Modos Griegos (adaptados a 41-TET)
-- **Jónico (Mayor)**: Do-Re-Mi-Fa-Sol-La-Si
-- **Dórico**: Do-Re-Mib-Fa-Sol-La-Sib
-- **Frigio**: Do-Reb-Mib-Fa-Sol-Lab-Sib
-- **Lidio**: Do-Re-Mi-Fa#-Sol-La-Si
-- **Mixolidio**: Do-Re-Mi-Fa-Sol-La-Sib
-- **Eólico (Menor)**: Do-Re-Mib-Fa-Sol-Lab-Sib
-- **Locrio**: Do-Reb-Mib-Fa-Solb-Lab-Sib
+- **Jónico (Mayor)**: C-D-E-F-G-A-B
+- **Dórico**: C-D-Eb-F-G-A-Bb
+- **Frigio**: C-Db-Eb-F-G-Ab-Bb
+- **Lidio**: C-D-E-F#-G-A-B
+- **Mixolidio**: C-D-E-F-G-A-Bb
+- **Eólico (Menor)**: C-D-Eb-F-G-Ab-Bb
+- **Locrio**: C-Db-Eb-F-Gb-Ab-Bb
 
 ### Escalas Especiales
 - **Cromática**: Las 41 notas del sistema
@@ -63,26 +63,26 @@ Simplemente abre `index.html` en tu navegador web.
 
 #### Notas musicales:
 ```
-┌──────────────────────────────────────────────┐
-│ Fila 1-0:  1 2 3 4 5 6 7 8 9 0              │
-│           Do Do+ Do#- Do# Reb Reb+ Re- Re Re+ Re#-│
-│           (0)(1)(2)(3)(4)(5)(6)(7)(8)(9)    │
-├──────────────────────────────────────────────┤
-│ Fila Q-P:  Q W E R T Y U I O P              │
-│           Re# Mib Mib+ Mi- Mi Mi+ Fa- Fa Fa+ Fa#-│
+┌───────────────────────────────────────────────────┐
+│ Fila 1-0:  1 2 3 4 5 6 7 8 9 0                    │
+│           C C+ C#- C# Db Db+ D- D D+ D#-          │
+│           (0)(1)(2)(3)(4)(5)(6)(7)(8)(9)          │
+├───────────────────────────────────────────────────┤
+│ Fila Q-P:  Q W E R T Y U I O P                    │
+│           D# Eb Eb+ E- E E+ F- F F+ F#-           │
 │           (10)(11)(12)(13)(14)(15)(16)(17)(18)(19)│
-├──────────────────────────────────────────────┤
-│ Fila A-Ñ:  A S D F G H J K L Ñ              │
-│           Fa# Solb Solb+ Sol- Sol Sol+ Sol#- Sol# Lab Lab+│
+├───────────────────────────────────────────────────┤
+│ Fila A-Ñ:  A S D F G H J K L Ñ                    │
+│           F# Gb Gb+ G- G G+ G#- G# Ab Ab+         │
 │           (20)(21)(22)(23)(24)(25)(26)(27)(28)(29)│
 ├──────────────────────────────────────────────┤
-│ Fila Z-N:  Z X C V B N                      │
-│           La- La La+ La#- La# Sib            │
-│           (30)(31)(32)(33)(34)(35)          │
+│ Fila Z-N:  Z X C V B N                       │
+│           A- A A+ A#- A# Bb                  │
+│           (30)(31)(32)(33)(34)(35)           │
 ├──────────────────────────────────────────────┤
-│ Fila M-/:  M , . / -                        │
-│           Sib+ Si- Si Si+ Do-                │
-│           (36)(37)(38)(39)(40)              │
+│ Fila M-/:  M , . / -                         │
+│           Bb+ B- B B+ C-                     │
+│           (36)(37)(38)(39)(40)               │
 └──────────────────────────────────────────────┘
 ```
 
